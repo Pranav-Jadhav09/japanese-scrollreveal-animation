@@ -1,6 +1,6 @@
 <div align="center">
 
-![GitHub repo size](https://img.shields.io/github/repo-size/Pranav-Jadhav09/responsive-error-page)
+![GitHub repo size](https://img.shields.io/github/repo-size/Pranav-Jadhav09/japanese-scrollreveal-animation)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Pranav_Jadhav09?style=social)](https://twitter.com/Pranav_Jadhav09)
 
 <!-- [![Hashnode Badge](https://img.shields.io/badge/Read_Blog-2962FF?style=social&logo=hashnode&logoColor=blue)](https://thejrpranav09.hashnode.dev/building-an-engaging-facebook-landing-page-a-web-development-odyssey) -->
@@ -8,7 +8,7 @@
 <br />
 <br />
 
- <img src="./assets/images/ghost-img.png" width="155">
+ <img src=" https://thumbs.dreamstime.com/b/vector-greeting-welcome-to-japan-cute-style-cartoon-greeting-welcome-to-japan-cute-style-cartoon-110888333.jpg" width="155px">
 
 <h2 align="center">Error 404 - Landing Page</h2>
 Error 404 is a fully responsive landing page website, responsive for all devices, built using HTML5, CSS3, and JavaScript. Also used Scroll Reveal JavaScript Library.
