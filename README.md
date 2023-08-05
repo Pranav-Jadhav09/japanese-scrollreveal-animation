@@ -10,7 +10,7 @@
 
  <img src=" https://thumbs.dreamstime.com/b/vector-greeting-welcome-to-japan-cute-style-cartoon-greeting-welcome-to-japan-cute-style-cartoon-110888333.jpg" width="155px">
 
-<h2 align="center">Error 404 - Landing Page</h2>
+<h2 align="center">Japanese - Scroll Reveal Animation</h2>
 Error 404 is a fully responsive landing page website, responsive for all devices, built using HTML5, CSS3, and JavaScript. Also used Scroll Reveal JavaScript Library.
 
 <a href="https://pranav-jadhav09.github.io/responsive-error-page/"><strong>➥ Live Demo</strong></a>
@@ -19,12 +19,12 @@ Error 404 is a fully responsive landing page website, responsive for all devices
 
 <br />
 
-### 👻 Error 404 Page
+### 🇯🇵 Scroll Reveal Animation 🏯
 
-- Responsive 404 Page Using HTML CSS, JavaScript and Scroll Reveal Js Library.
-- Contains CSS animations.
-- Developed first with the Mobile First methodology, then for desktop.
-- Compatible with all mobile devices and with a beautiful and pleasant user interface.
+- Web Page Using HTML CSS, JavaScript and Scroll Reveal Js Library.
+- Contains Scroll Reveal Animation.
+- Made only for desktop view.
+- Learned about making interesting scroll reveal animations.
 
 ### Demo Screenshots
 
@@ -38,18 +38,18 @@ Before you begin, ensure you have met the following requirements:
 
 ### Run Locally
 
-To run **Error-404 Landing Page**, run this command on your git bash:
+To run **Scroll Reveal Webpage**, run this command on your git bash:
 
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/Pranav-Jadhav09/responsive-error-page.git
+sudo git clone https://github.com/Pranav-Jadhav09/japanese-scrollreveal-animation.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/Pranav-Jadhav09/responsive-error-page.git
+git clone https://github.com/Pranav-Jadhav09/japanese-scrollreveal-animation.git
 ```
 
 ### License
