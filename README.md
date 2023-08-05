@@ -22,7 +22,7 @@ Japanese Scroll Reveal animation webpage website it contains three places to vis
 
 - Web Page Using HTML CSS, JavaScript and Scroll Reveal Js Library.
 - Contains Scroll Reveal Animation.
-- Made only for desktop view.
+- Made only for **Desktop** view.
 - Learned about making interesting scroll reveal animations.
 
 ### Demo Screenshots
