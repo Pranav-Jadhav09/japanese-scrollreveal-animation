@@ -12,7 +12,7 @@
 <h2 align="center">Japanese - Scroll Reveal Animation</h2>
 Japanese Scroll Reveal animation webpage website it contains three places to visit in Japan, built using HTML5, CSS3, and JavaScript. Also used Scroll Reveal JavaScript Library.
 
-<a href="https://pranav-jadhav09.github.io/responsive-error-page/"><strong>➥ Live Demo</strong></a>
+<a href="https://pranav-jadhav09.github.io/japanese-scrollreveal-animation/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
