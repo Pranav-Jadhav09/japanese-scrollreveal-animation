@@ -8,7 +8,7 @@
 <br />
 <br />
 
- <img src=" https://thumbs.dreamstime.com/b/vector-greeting-welcome-to-japan-cute-style-cartoon-greeting-welcome-to-japan-cute-style-cartoon-110888333.jpg" width="155px">
+ <img src="https://thumbs.dreamstime.com/b/vector-greeting-welcome-to-japan-cute-style-cartoon-greeting-welcome-to-japan-cute-style-cartoon-110888333.jpg" width="155px">
 
 <h2 align="center">Japanese - Scroll Reveal Animation</h2>
 Error 404 is a fully responsive landing page website, responsive for all devices, built using HTML5, CSS3, and JavaScript. Also used Scroll Reveal JavaScript Library.
