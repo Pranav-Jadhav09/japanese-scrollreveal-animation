@@ -4,7 +4,6 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/Pranav_Jadhav09?style=social)](https://twitter.com/Pranav_Jadhav09)
 
 <!-- [![Hashnode Badge](https://img.shields.io/badge/Read_Blog-2962FF?style=social&logo=hashnode&logoColor=blue)](https://thejrpranav09.hashnode.dev/building-an-engaging-facebook-landing-page-a-web-development-odyssey) -->
-
 <br />
 <br />
 
