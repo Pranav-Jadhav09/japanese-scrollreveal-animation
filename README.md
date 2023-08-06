@@ -25,9 +25,6 @@ Japanese Scroll Reveal animation webpage website it contains three places to vis
 - Made only for **Desktop** view.
 - Learned about making interesting scroll reveal animations.
 
-### Demo Screenshots
-
-![Landing Page Demo Screen](./assets/images/desktop.png "Demo Screen")
 
 ### Prerequisites
 
